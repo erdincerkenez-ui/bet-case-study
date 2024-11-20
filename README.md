@@ -1,6 +1,6 @@
 # bet-case-study
 
-# React ile geliştirilmiş, interaktif bir bahis tablosu uygulaması. Performans optimizasyonları ve eski mobil cihazlarla uyumluluk göz önünde bulundurularak tasarlanmıştır.
+React ile geliştirilmiş, interaktif bir bahis tablosu uygulaması. Performans optimizasyonları ve eski mobil cihazlarla uyumluluk göz önünde bulundurularak tasarlanmıştır.
 
 - Dinamik bir tablo, seçilebilir kolonlarla birlikte.
 - Sepete ekleme ve çıkarma işlemleri.
@@ -10,7 +10,7 @@
 # Gereksinimler
 Projeyi çalıştırmadan önce aşağıdaki araçların yüklü olduğundan emin olun:
 
-- [Node.js] (v14 ve üstü önerilir)
+- Node.js 
 - npm veya yarn
 
 # Kurulum
@@ -24,4 +24,4 @@ npm install
 
 npm start
 
-# Uygulama http://localhost:3000 adresinde çalışacaktır.
+Uygulama http://localhost:3000 adresinde çalışacaktır.
